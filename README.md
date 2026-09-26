@@ -1,1 +1,2 @@
-# cosmeticsdatabase
+# Cosmetics Database
+
